@@ -1,7 +1,7 @@
 const express = require('express');
 
 const { RtcTokenBuilder, RtcRole } = require('agora-access-token');
-const PORT = 80;
+const PORT = 8080;
 
 // Synergy Gate 
 const APP_ID = '11d56c9aea1c4816beffd6e61da646b3';
